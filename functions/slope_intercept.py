@@ -1,0 +1,1 @@
+f = lambda x,m,b : x*m+b
